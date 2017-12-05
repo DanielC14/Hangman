@@ -9,35 +9,34 @@ Game developed for the Algorithm and Data Structure subject in the first year of
 * Microsoft Visual Studio
 
 ## Play
-* [Click to play](https://cdn.rawgit.com/DanielC14/FingerTap/5f046f17/index.html)
+* To play download the contents in the folder "To Play" and open the exe file.
 
 ## Screenshots
 
 ### Homepage
-![Home Menu](screenshots/HomeMenu.PNG?raw=true)
+![Home](Screenshots/home.PNG?raw=true)
 
-### How To Play
-![Home Menu](screenshots/HowToPlay.PNG?raw=true)
+### Choose configurations before playing
+![Config](Screenshots/config.PNG?raw=true)
 
-### Game Over
-![Home Menu](screenshots/GameOver.PNG?raw=true)
+### Game
 
-### Difficulties
+* Playing
+![Playing](Screenshots/playing.PNG?raw=true)
 
-* Easy
- \- 25 Keys
- \- 1x Speed
+* Win
+![Win](Screenshots/win.PNG?raw=true)
 
-![Home Menu](screenshots/GMEasy.PNG?raw=true)
+* Loose
+![Loose](Screenshots/loose.PNG?raw=true)
 
-* Medium
- \- 50 Keys
- \- 3x Speed
+### Ranking
 
-![Home Menu](screenshots/GMMedium.PNG?raw=true)
+* Choose what rank to see
+![Choose Rank](Screenshots/rank.PNG?raw=true)
 
-* Hard
- \- 75 Keys
- \- 5x Speed
+* Top 5 Ranking
+![Top 5 Ranking](Screenshots/top5-Rank.PNG?raw=true)
 
-![Home Menu](screenshots/GMHard.PNG?raw=true)
+* General Ranking
+![General Ranking](Screenshots/general-Ranking.PNG?raw=true)
