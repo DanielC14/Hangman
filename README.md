@@ -15,7 +15,7 @@ Game developed for the Algorithm and Data Structure subject in the first year of
 
 ### Homepage
 
-![Home](Screenshots/home.png?raw=true){:width="25%" height="25%"}
+![Home](Screenshots/home.png?raw=true&s=100)
 
 ### Choose configurations before playing
 
