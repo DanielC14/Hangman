@@ -14,29 +14,29 @@ Game developed for the Algorithm and Data Structure subject in the first year of
 ## Screenshots
 
 ### Homepage
-![Home](Screenshots/home.PNG?raw=true)
+![Home](Screenshots/home.png?raw=true)
 
 ### Choose configurations before playing
-![Config](Screenshots/config.PNG?raw=true)
+![Config](Screenshots/config.png?raw=true)
 
 ### Game
 
 * Playing
-![Playing](Screenshots/playing.PNG?raw=true)
+![Playing](Screenshots/playing.png?raw=true)
 
 * Win
-![Win](Screenshots/win.PNG?raw=true)
+![Win](Screenshots/win.png?raw=true)
 
 * Loose
-![Loose](Screenshots/loose.PNG?raw=true)
+![Loose](Screenshots/loose.png?raw=true)
 
 ### Ranking
 
 * Choose what rank to see
-![Choose Rank](Screenshots/rank.PNG?raw=true)
+![Choose Rank](Screenshots/rank.png?raw=true)
 
 * Top 5 Ranking
-![Top 5 Ranking](Screenshots/top5-Rank.PNG?raw=true)
+![Top 5 Ranking](Screenshots/top5-Rank.png?raw=true)
 
 * General Ranking
-![General Ranking](Screenshots/general-Ranking.PNG?raw=true)
+![General Ranking](Screenshots/general-Ranking.png?raw=true)
