@@ -14,20 +14,25 @@ Game developed for the Algorithm and Data Structure subject in the first year of
 ## Screenshots
 
 ### Homepage
+
 ![Home](Screenshots/home.png?raw=true)
 
 ### Choose configurations before playing
+
 ![Config](Screenshots/config.png?raw=true)
 
 ### Game
 
 * Playing
+
 ![Playing](Screenshots/playing.png?raw=true)
 
 * Win
+
 ![Win](Screenshots/win.png?raw=true)
 
 * Loose
+
 ![Loose](Screenshots/loose.png?raw=true)
 
 ### Ranking
