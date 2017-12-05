@@ -33,10 +33,13 @@ Game developed for the Algorithm and Data Structure subject in the first year of
 ### Ranking
 
 * Choose what rank to see
+
 ![Choose Rank](Screenshots/rank.png?raw=true)
 
 * Top 5 Ranking
+
 ![Top 5 Ranking](Screenshots/top5-Rank.png?raw=true)
 
 * General Ranking
-![General Ranking](Screenshots/general-Ranking.png?raw=true)
+
+![General Ranking](Screenshots/general-Rank.png?raw=true)
