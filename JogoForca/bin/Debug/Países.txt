@@ -1,0 +1,142 @@
+m,afeganistao
+m,africa do sul
+m,albania
+f,alemanha
+m,andorra
+f,angola
+d,anguila
+f,antarctida
+m,arabia saudita
+m,argelia
+f,argentina
+d,armenia
+f,australia
+f,austria
+d,azerbaijao
+d,baamas
+d,bangladeche
+d,barbados
+f,belgica
+m,bermudas
+m,bielorrussia
+d,birmania
+m,bolivia
+d,botsuana
+f,brasil
+m,bulgaria
+f,cabo verde
+d,camaroes
+f,canada
+m,catar
+f,chile
+f,china
+m,chipre
+f,colombia
+m,coreia do sul
+d,costa do marfim
+m,costa rica
+m,croacia
+f,cuba
+m,dinamarca
+f,egipto
+m,equador
+d,eslovaquia
+d,eslovenia
+f,espanha
+f,estados unidos
+m,estonia
+m,etiopia
+f,fiji
+m,filipinas
+m,finlandia
+f,frança
+d,gabao
+d,gambia
+m,gana
+m,georgia
+d,granada
+f,grecia
+d,gronelandia
+d,guame
+f,guine
+f,haiti
+m,honduras
+m,hong kong
+f,hungria
+d,iemen
+f,india
+m,indonesia
+f,irao
+m,iraque
+f,irlanda
+m,islandia
+m,israel
+f,italia
+f,jamaica
+f,japao
+d,kuwait
+m,libano
+m,liberia
+m,libia
+m,luxemburgo
+f,macau
+d,macedonia
+m,madagascar
+m,malasia
+m,mali
+m,malta
+m,marrocos
+f,mexico
+m,mocambique
+d,moldavia
+f,monaco
+d,mongolia
+d,montenegro
+m,nepal
+d,nicaragua
+m,nigeria
+m,noruega
+m,nova zelandia
+m,oma
+d,palau
+m,panama
+d,paquistao
+d,paraguai
+f,peru
+f,polonia
+m,porto rico
+f,portugal
+m,quenia
+d,quirguizistao
+f,reino unido
+m,romenia
+f,russia
+m,salvador
+m,samoa
+m,senegal
+m,serra leoa
+m,servia
+d,singapura
+f,siria
+m,somalia
+d,suazilandia
+m,sudao
+f,suecia
+f,suiça
+d,suriname
+d,tailandia
+d,taiwan
+d,tanzania
+m,timor leste
+m,togo
+d,trindade e tobago
+m,tunisia
+m,turquia
+d,tuvalu
+f,ucrania
+m,uganda
+m,uruguai
+m,venezuela
+m,vietname
+d,zambia
+d,zimbabue
